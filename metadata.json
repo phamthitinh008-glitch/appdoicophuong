@@ -1,0 +1,6 @@
+{
+  "name": "Măng Non Chiến Thắng - Phòng Truyền Thống Đội Ảo 4.0",
+  "description": "Phòng truyền thống Đội TNTP Hồ Chí Minh 3D/2D trực tuyến của Liên đội Trường Tiểu học và THCS Chiến Thắng, xã Vũ Lễ, tỉnh Lạng Sơn. Tự hào truyền thống – Tiếp bước cha anh – Măng non vững bước trong kỷ nguyên số.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
